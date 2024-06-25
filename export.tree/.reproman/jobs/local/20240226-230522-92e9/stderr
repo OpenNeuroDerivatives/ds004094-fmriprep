@@ -1,0 +1,14 @@
+Warning: Permanently added 'c125-174' (ECDSA) to the list of known hosts.
+WARNING (03/01/24 16:20:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6139778.hostlist.MExNkIZo to get hosts
+starting job on c125-174
+starting job on c125-181
+starting job on c125-182
+starting job on c125-183
+starting job on c170-031
+starting job on c170-032
+starting job on c170-033
+starting job on c170-034
+starting job on c170-041
+starting job on c170-042
+Terminated
